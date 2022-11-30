@@ -14,7 +14,7 @@ Students can pick one of many project tracks, including:
 # TODOs
 * [ ] Code for the e-board that automate processes
 * [ ] Upload syllabus
-* [ ] Project track info
+* [ ] Central hub for project track info
 * [ ] Homepage with intro, useful links (discord, webex, surveys)
 * [ ] Central page with all the info for each of the events, along with pictures from prior years
     * Open House
