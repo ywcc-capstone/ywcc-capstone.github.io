@@ -22,21 +22,13 @@ Do you want to inspire the next generation of software developers and digital cr
 
 
 ## CISCO Academy
-Required for IT students in the Network and Information Security specialization. 
+The CISCO track is geared towards Network and Information Security students looking to take their practical skills and abilities to the next level. CISCO track applicants must first take a qualifier exam on networking concepts and ideas (double check with Dr. Eljabiri on this one, as we skipped the qualifier exam this semester due to low CISCO-track participation).
 
-The CISCO Academy is a set of courses that lead to earning the Cisco Certified Network Association 200-301 Certificate
-The primary objective of the Cisco Project of Projects is to study for the Cisco Certified
-Network Associate (CCNA) 200-301 certificate as an independent student-led group of
-Information Technology students who are the Network and Information Security
-specialization through means of group study and projects. Taking the CCNA 200-301 is
-optional and independent of the course or NJIT. Students will apply the knowledge they
-learned into a single networking project/demonstration in groups of no more than 4
-people. The independent networking project will apply all problem-solving strategies &
-life cycles in the capstone industry projects and submit the same deliverables. Ideally,
-students will emerge from this Capstone project with their CCNA 200-301 and a
-technical networking project to add on their resume. Combined with the degree they are
-soon to be finishing, students who participate will have the upper hand when entering
-the workforce.
+Once students are selected into the CISCO track, their responsibilities over the semester are two-fold. First, they will attend weekly sessions of CISCO academy courses taught by a CISCO certified instructor, gaining first-hand experience creating and configuring enterprise-level connectivity solutions while learning and being tested on the fundamentals of networking; this all culminates in the taking of the CISCO CCNA 200-301 Certification Exam, where upon passing students will receive the certificate signed by the CEO of CISCO, and for advanced performers, a recommendation letter from the CEO himself.
+
+Secondly, CISCO track students are responsible for a semester-long networking project to be completed with a team of up to 4 members each. Over the semester, CISCO student teams will plan and implement a real-world scenario networking solution of their own design, functioning very similarly to Industry and Startup teams by electing a Project Manager, operating under Agile development principles, and reporting to an Executive Team mentor. CISCO student teams will be responsible for both midterm and Final Showcase presentations, as well as a final paper that describes in detail both the design process and the specific networking concepts utilized in for their project.
+
+Both CISCO Academy and group project experiences will give students a comprehensive understanding of enterprise-level network design, security, and scalability that will prove invaluable upon their entry into the workforce.
 
 
 ## Executive Board
