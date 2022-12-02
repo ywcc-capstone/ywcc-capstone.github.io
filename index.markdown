@@ -6,6 +6,7 @@ layout: page
 title: Welcome
 ---
 
+# Welcome
 Here, YWCC students take what they've learned from their years at NJIT and put it to practice in a project-based learning experience.
 
 Students can pick one of many project tracks, including:
