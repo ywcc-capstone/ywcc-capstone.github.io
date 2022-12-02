@@ -15,7 +15,6 @@ Students can pick one of many project tracks, including:
 
 
 # TODOs
-* [ ] Code for the e-board that automate processes
 * [ ] Upload syllabus
 * [ ] Central hub for project track info
 * [ ] Homepage with intro, useful links (discord, webex, surveys)
@@ -24,10 +23,11 @@ Students can pick one of many project tracks, including:
     * Midterm Demo
     * Final showcase
 * [ ] Exec board getting started page
+    * _See the repository `eboard-tools`_
+    * [ ] Resources from the Fall 2022 eboard
+    * [ ] Stretch: resources from Spring 2022 eboard
 * [ ] Student handbook
 * [ ] Forms and data retrieval
-* [ ] Resources from the Fall 2022 eboard
-* [ ] Stretch: resources from Spring 2022 eboard
 
 #### Local Development
 This site is deployed using GitHub Pages and Jekyll, a freely available tools to
