@@ -1,12 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
-title: Welcome
 ---
+# ywcc-capstone.github.io
+ywcc-capstone.github.io
 
-Here, YWCC students take what they've learned from their years at NJIT and put it to practice in a project-based learning experience.
+Welcome, to the YWCC Capstone webpage. Here, YWCC students take what they've learned from their years at NJIT and put it to practice.
 
 Students can pick one of many project tracks, including:
 1. Real-World Connections. A coaching track focused on K-12 students.
