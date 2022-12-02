@@ -13,8 +13,9 @@ Students can pick one of many project tracks, including:
 4. (*) Industry-Sponsored Projects. A software and/or hardware project, where students work closely with company sponsors to solve real business problems.
 5. The Executive Board. A managerial project, focused on running, improving, and developing the Capstone as a whole.
 
-
 # TODOs
+* [ ] Get the sidebar populated
+* [ ] Publicize this repository and deploy it on the web
 * [ ] Upload syllabus
 * [ ] Central hub for project track info
 * [ ] Homepage with intro, useful links (discord, webex, surveys)
