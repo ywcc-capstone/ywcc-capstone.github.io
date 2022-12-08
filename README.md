@@ -19,7 +19,7 @@ Herein lies the development documentation for the Computing Capstone website.
 * [x] Get the sidebar populated
 * [x] Publicize this repository and deploy it on the web
 
-#### Local Development
+# Local Development
 This site is deployed using GitHub Pages and Jekyll, a freely available tools to
 generate and deploy statis webpages.
 
