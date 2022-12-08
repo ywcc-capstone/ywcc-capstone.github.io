@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.2"
+# gem "jekyll", "~> 3.9.2"
 
 # This is the Jekyll theme created by Harvard's CS50 with some slight edits for
 # compatibility with other plugins.
