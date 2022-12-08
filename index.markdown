@@ -47,3 +47,9 @@ git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
 $ bundle install
 $ bundle exec jekyll serve
 ```
+4. Create your own development branch with your changes, tagged with your UCID.
+```
+git checkout -b dev-abc123
+```
+5. Make your changes, and open a pull request to the branch `gh-pages`. This
+branch is public-facing, thus all changes must be reviewed prior to merging.
