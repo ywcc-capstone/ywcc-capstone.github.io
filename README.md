@@ -1,22 +1,8 @@
----
-layout: page
----
 # ywcc-capstone.github.io
-ywcc-capstone.github.io
 
-Welcome, to the YWCC Capstone webpage. Here, YWCC students take what they've learned from their years at NJIT and put it to practice.
-
-Students can pick one of many project tracks, including:
-1. Real-World Connections. A coaching track focused on K-12 students.
-2. CISCO Academy. A networking project focused for IT students with an emphasis on completing the CCNA exam.
-3. Student Startups. A software and/or hardware project, pioneered and led by students.
-4. (*) Industry-Sponsored Projects. A software and/or hardware project, where students work closely with company sponsors to solve real business problems.
-5. The Executive Board. A managerial project, focused on running, improving, and developing the Capstone as a whole.
+Herein lies the development documentation for the Computing Capstone website.
 
 # TODOs
-* [ ] Get the sidebar populated
-* [ ] Publicize this repository and deploy it on the web
-* [ ] Upload syllabus
 * [ ] Central hub for project track info
 * [ ] Homepage with intro, useful links (discord, webex, surveys)
 * [ ] Central page with all the info for each of the events, along with pictures from prior years
@@ -24,18 +10,21 @@ Students can pick one of many project tracks, including:
     * Midterm Demo
     * Final showcase
 * [ ] Exec board getting started page
-    * _See the repository `eboard-tools`_
+    * _See the [eboard-tools][GitHubEboardTools] repository._
     * [ ] Resources from the Fall 2022 eboard
     * [ ] Stretch: resources from Spring 2022 eboard
 * [ ] Student handbook
 * [ ] Forms and data retrieval
+* [x] Upload syllabus
+* [x] Get the sidebar populated
+* [x] Publicize this repository and deploy it on the web
 
 #### Local Development
 This site is deployed using GitHub Pages and Jekyll, a freely available tools to
 generate and deploy statis webpages.
 
 1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/) for your system.
-2. Clone this repository
+2. Clone this repository to your local machine
 ```
 git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
 ```
@@ -44,3 +33,11 @@ git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
 $ bundle install
 $ bundle exec jekyll serve
 ```
+4. Create your own development branch with your changes, tagged with your UCID.
+```
+git checkout -b dev-abc123
+```
+5. Make your changes, and open a pull request to the branch `gh-pages`. This
+branch is public-facing, thus all changes must be reviewed prior to merging.
+
+[GitHubEboardTools]: https://github.com/ywcc-capstone/eboard-tools

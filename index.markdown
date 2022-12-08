@@ -8,48 +8,25 @@ title: Welcome
 ---
 
 # Welcome
-Here, YWCC students take what they've learned from their years at NJIT and put it to practice in a project-based learning experience.
+Here, YWCC students take what they've learned from their years at NJIT and put
+it to practice in a project-based learning experience.
 
 Students can pick one of many project tracks, including:
-1. Real-World Connections. A coaching track focused on K-12 students.
-2. CISCO Academy. A networking project focused for IT students with an emphasis on completing the CCNA exam.
-3. Student Startups. A software and/or hardware project, pioneered and led by students.
-4. (*) Industry-Sponsored Projects. A software and/or hardware project, where students work closely with company sponsors to solve real business problems.
-5. The Executive Board. A managerial project, focused on running, improving, and developing the Capstone as a whole.
 
+1. Industry-Sponsored Projects. A software and/or hardware project, where
+   students work closely with company sponsors to solve real business problems.
+2. Student Startups. A software and/or hardware project, pioneered and led by
+   students.
+3. Real-World Connections. A coaching track focused on K-12 students.
+4. CISCO Academy. A networking project focused for IT students with an emphasis
+   on completing the CCNA exam.
+5. The Executive Board. A managerial project, focused on running, improving, and
+   developing the Capstone as a whole.
 
-# TODOs
-* [ ] Code for the e-board that automate processes
-* [ ] Upload syllabus
-* [ ] Central hub for project track info
-* [ ] Homepage with intro, useful links (discord, webex, surveys)
-* [ ] Central page with all the info for each of the events, along with pictures from prior years
-    * Open House
-    * Midterm Demo
-    * Final showcase
-* [ ] Exec board getting started page
-* [ ] Student handbook
-* [ ] Forms and data retrieval
-* [ ] Resources from the Fall 2022 eboard
-* [ ] Stretch: resources from Spring 2022 eboard
 
 #### Local Development
-This site is deployed using GitHub Pages and Jekyll, a freely available tools to
-generate and deploy statis webpages.
+This site is deployed using GitHub Pages and Jekyll, freely available tools to
+generate and deploy static webpages. If you would like to contribute,
+[visit the repository][GitHubRepository].
 
-1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/) for your system.
-2. Clone this repository
-```
-git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
-```
-3. Install the dependencies and serve it to localhost
-```
-$ bundle install
-$ bundle exec jekyll serve
-```
-4. Create your own development branch with your changes, tagged with your UCID.
-```
-git checkout -b dev-abc123
-```
-5. Make your changes, and open a pull request to the branch `gh-pages`. This
-branch is public-facing, thus all changes must be reviewed prior to merging.
+[GitHubRepository]: https://github.com/ywcc-capstone/ywcc-capstone.github.io
