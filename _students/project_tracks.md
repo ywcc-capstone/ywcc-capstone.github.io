@@ -1,5 +1,9 @@
 ---
+title: Project Tracks
 layout: page
+published: true
+permalink: /students/project_tracks
+order: 1
 ---
 
 # Capstone Project Tracks
