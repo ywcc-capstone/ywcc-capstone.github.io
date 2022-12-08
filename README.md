@@ -26,7 +26,7 @@ generate and deploy statis webpages.
 1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/) for your system.
 2. Clone this repository to your local machine
 ```
-git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
+$ git clone https://github.com/ywcc-capstone/ywcc-capstone.github.io.git
 ```
 3. Install the dependencies and serve it to localhost
 ```
@@ -35,7 +35,7 @@ $ bundle exec jekyll serve
 ```
 4. Create your own development branch with your changes, tagged with your UCID.
 ```
-git checkout -b dev-abc123
+$ git checkout -b ucid123/dev
 ```
 5. Make your changes, and open a pull request to the branch `gh-pages`. This
 branch is public-facing, thus all changes must be reviewed prior to merging.
