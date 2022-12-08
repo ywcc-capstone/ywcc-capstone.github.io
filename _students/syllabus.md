@@ -1,4 +1,6 @@
 ---
 layout: page
+published: true
+permalink: /students/syllabus
+order: 1
 ---
-TODO: Migrate the syllabus and ensure that it meets all of NJIT's requirements here.
