@@ -27,7 +27,7 @@ url: "https://ywcc-capstone.github.io" # the base hostname & protocol for your s
 github_username:  ywcc-capstone
 
 # Build settings
-theme: jekyll-theme-cs50
+remote_theme: ywcc-capstone/jekyll-theme-cs50
 # Jekyll has built-in support for using plugins to extend the core functionality.
 # https://jekyllrb.com/docs/plugins/installation/
 plugins:
