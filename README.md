@@ -21,7 +21,7 @@ Herein lies the development documentation for the Computing Capstone website.
 
 # Local Development
 This site is deployed using GitHub Pages and Jekyll, a freely available tools to
-generate and deploy statis webpages.
+generate and deploy static webpages.
 
 1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/installation/) for your system.
 2. Clone this repository to your local machine
