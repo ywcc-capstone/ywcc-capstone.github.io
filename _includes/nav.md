@@ -1,5 +1,7 @@
 # [The Computing Capstone at NJIT](/home)
 
+<hr />
+
 ## Students
 {% assign student-pages = site.students | sort: 'order' %}
 {% for page in student-pages %}
@@ -7,6 +9,8 @@
 * [{{ page.title }}]({{ page.url }})
     {% endif %}
 {% endfor %}
+
+<hr /> 
 
 ## [Sponsors]() 
 Herein lies information for **sponsors** wanting to understand the purpose of
