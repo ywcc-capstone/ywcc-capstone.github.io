@@ -23,7 +23,7 @@ email: rsp84@njit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   There are the documents for the Computing Capstone at NJIT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "ywcc-capstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ywcc-capstone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ywcc-capstone
 
 # Build settings
@@ -33,6 +33,16 @@ theme: jekyll-theme-cs50
 plugins:
     - jekyll-seo-tag
 #   - jekyll-feed
+
+collections:
+  students:
+    output: true
+    order:
+      - start_here.md
+      - open_house.md
+      - midterm_demo.md
+      - final_showcase.md
+      # any other files are appended to this order.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
