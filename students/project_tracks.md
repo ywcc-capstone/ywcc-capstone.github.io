@@ -3,15 +3,20 @@ layout: page
 ---
 
 # Capstone Project Tracks
-Within YWCC, there are hundreds of students across 9 different majors. Most are in Computer Science or Information Technology programs, but we offer many different tracks for those students who are in the other major programs as well.
+Within the Computing Capstone, there are hundreds of students across 9 different
+majors. Most are in Computer Science or Information Technology programs, but we
+offer many different tracks for those students who are in the other major
+programs as well.
 
-TODO: Insert hierarchical chart from the Early Bird presentation here.
+![Project Tracks as a hierarchy](/images/project_tracks.png)
 
 ## Software/Hardware Projects
 1. Industry-Sponsored Projects
+
     TODO
 
 2. Student Startups
+
     TODO
 
 ## Real-World Connections
