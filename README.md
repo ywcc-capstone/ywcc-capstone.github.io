@@ -60,6 +60,8 @@ Herein lies the development documentation for the Computing Capstone website.
 * [ ] Sponsors (should list past sponsors and their projects)
     * [ ] Join the Capstone
         * Compile info from the homepage, mailing list, about capstone, contact us, capstone agreement
+    * [ ] Donate
+        * Make a donation or contribution in support of the YWCC Capstone Program at https://njit-connect.njit.edu/pages/capstone, or write a check to “NJIT Foundation / University Advancement” with the attention set to the YWCC Capstone Program Acct. #200094.
     * [ ] Timeline
         * https://ywcccapstone.com/capstone-2020/
     * [ ] Past projects
