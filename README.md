@@ -2,18 +2,39 @@
 
 Herein lies the development documentation for the Computing Capstone website.
 
-# TODOs
-* [ ] Homepage with intro, useful links (discord, webex, surveys)
-* [ ] Central page with all the info for each of the events, along with pictures from prior years
+# TODOs for Student section
+* [ ] Student Navbar
+    * [ ] Webex
+    * [ ] Canvas
+    * [x] Discord
+    * [x] Github
+    * [x] Youtube
+* [ ] Homepage with all the info for each of the events, along with pictures from prior years
+    * _Should inspire and get people excited for the Capstone_
     * Open House
     * Midterm Demo
     * Final showcase
+* [ ] Student Timeline
+    * [ ] Sprints / weeks
+* [ ] Student Deliverables
+    * [ ] Progress reports
+    * [ ] Demo video
+    * [ ] Final showcase materials
+    * [ ] Final report
+* [ ] Student Training
+    * [ ] PM Training
+    * [ ] Gantt Charts
+    * [ ] Agile and Scrum
+    * [ ] MDDDE
+    * [ ] Scope Document
 * [ ] Exec board getting started page
     * _See the [eboard-tools][GitHubEboardTools] repository._
     * [ ] Resources from the Fall 2022 eboard
     * [ ] Stretch: resources from Spring 2022 eboard
 * [ ] Student handbook
-* [ ] Forms and data retrieval
+* [ ] Student forms and data retrieval
+    * [ ] Project Track commitment
+    * [ ] Feedback
 * [ ] Migrate the starter email docs here
     * [ ] The email itself?
     * [ ] Project Manager expectations
@@ -23,10 +44,33 @@ Herein lies the development documentation for the Computing Capstone website.
     * [ ] Capstone introduction pptx
     * [x] Capstone Project Options
     * [x] Syllabus
-* [x] Central hub for project track info
 * [x] Upload syllabus
+    * [ ] Grading scorecards need to be uploaded
+* [x] Central hub for project track info
 * [x] Get the sidebar populated
 * [x] Publicize this repository and deploy it on the web
+
+
+# TODOs for Sponsor section
+* [ ] Start here
+    * [ ] "What is the Computing Capstone at NJIT?"
+    * [ ] Why should you sponsor 
+    * [ ] Testimonials
+    * [ ] Mailing list registry
+* [ ] Sponsors (should list past sponsors and their projects)
+    * [ ] Join the Capstone
+        * Compile info from the homepage, mailing list, about capstone, contact us, capstone agreement
+    * [ ] Timeline
+        * https://ywcccapstone.com/capstone-2020/
+    * [ ] Past projects
+        * Google Drive and
+        * Get company logos and images here
+    * [ ] FAQ
+        * https://ywcccapstone.com/faq/
+    * [ ] Documents
+        * Available in footer.
+        * [ ] NJIT Capstone Agreement https://ywcccapstone.com/wp-content/uploads/2019/08/Sponsors-Acknowledgment-Agreement-FIN.pdf
+        * [ ] NJIT Student NDA https://ywcccapstone.com/wp-content/uploads/2019/08/NDA-Capstone.pdf
 
 # Local Development
 This site is deployed using GitHub Pages and Jekyll, a freely available tools to
