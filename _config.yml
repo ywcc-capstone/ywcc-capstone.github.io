@@ -32,11 +32,8 @@ remote_theme: ywcc-capstone/jekyll-theme-cs50
 # https://jekyllrb.com/docs/plugins/installation/
 plugins:
     - jekyll-seo-tag
-    - jekyll-last-modified-at
 #   - jekyll-feed
 
-last-modified-at:
-  date-format: "Last updated %B %e %Y"
 collections:
   students:
     output: true
