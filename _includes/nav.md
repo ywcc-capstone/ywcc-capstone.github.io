@@ -1,4 +1,8 @@
-# [The Computing Capstone at NJIT](/home)
+# [The Computing Capstone @ NJIT](/home)
+_Unofficial Website_
+
+<a href="http://github.com/ywcc-capstone"><i class="fab fa-github"></i></a>
+
 
 <hr />
 
