@@ -1,8 +1,10 @@
 # [The Computing Capstone @ NJIT](/home)
 _Unofficial Website_
 
+<!-- Clickable icons -->
 <a href="http://github.com/ywcc-capstone"><i class="fab fa-github"></i></a>
-
+<a href="https://njit.gg/capstone"><i class="fab fa-discord"></i></a>
+<a href="https://www.youtube.com/@ywcc.capstone.fall22"><i class="fab fa-youtube"></i></a>
 
 <hr />
 
