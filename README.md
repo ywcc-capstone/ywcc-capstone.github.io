@@ -14,6 +14,15 @@ Herein lies the development documentation for the Computing Capstone website.
     * [ ] Stretch: resources from Spring 2022 eboard
 * [ ] Student handbook
 * [ ] Forms and data retrieval
+* [ ] Migrate the starter email docs here
+    * [ ] The email itself?
+    * [ ] Project Manager expectations
+    * [ ] Executive Team expectations
+    * [ ] Sample RWC brochure
+    * [ ] CISCO Project of projects
+    * [ ] Capstone introduction pptx
+    * [x] Capstone Project Options
+    * [x] Syllabus
 * [x] Central hub for project track info
 * [x] Upload syllabus
 * [x] Get the sidebar populated
