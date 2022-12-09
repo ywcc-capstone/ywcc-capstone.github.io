@@ -3,7 +3,6 @@
 Herein lies the development documentation for the Computing Capstone website.
 
 # TODOs
-* [ ] Central hub for project track info
 * [ ] Homepage with intro, useful links (discord, webex, surveys)
 * [ ] Central page with all the info for each of the events, along with pictures from prior years
     * Open House
@@ -15,6 +14,7 @@ Herein lies the development documentation for the Computing Capstone website.
     * [ ] Stretch: resources from Spring 2022 eboard
 * [ ] Student handbook
 * [ ] Forms and data retrieval
+* [x] Central hub for project track info
 * [x] Upload syllabus
 * [x] Get the sidebar populated
 * [x] Publicize this repository and deploy it on the web
