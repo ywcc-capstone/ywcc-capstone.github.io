@@ -18,9 +18,12 @@ _Unofficial Website_
 
 <hr /> 
 
-## [Sponsors]() 
-Herein lies information for **sponsors** wanting to understand the purpose of
-this course and how to partner with NJIT.
+## Sponsors 
+* [Join the Capstone][SponsorJoinCapstone]
+* [Information and Timeline][SponsorInfo]
+* [Past Projects][]
+* [FAQ][FAQ]
+* [Donate][Donate]
 
 
 [Students]: /students/
@@ -29,3 +32,7 @@ this course and how to partner with NJIT.
 [ProjectTracks]: /students/project_tracks
 [MidtermDemo]: /students/midterm_demo
 [FinalShowcase]: /students/final_showcase
+[SponsorJoinCapstone]: /sponsors/join
+[SponsorInfo]: /sponsors/info
+[SponsorFAQ]: /sponsors/faq
+[Donate]: https://njit-connect.njit.edu/pages/capstone
