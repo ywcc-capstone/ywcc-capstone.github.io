@@ -43,6 +43,8 @@ collections:
       - midterm_demo.md
       - final_showcase.md
       # any other files are appended to this order.
+  sponsors:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
